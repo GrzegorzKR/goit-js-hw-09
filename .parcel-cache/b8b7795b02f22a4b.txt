@@ -16,7 +16,7 @@
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\yaml\browser\scalar.js133134135304894370 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CR.js133134135321086340 0
 74E:\Kursy\GoIT\goit-js-hw-09\node_modules\htmlnano\lib\modules\minifySvg.js133134135301771647 0
-45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134463515420145 0
+45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134524045700772 0
 66E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\plugins\prefixIds.js133134135306797464 0
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\.package-lock.json133134463515610195 0
 38E:\Kursy\GoIT\goit-js-hw-09\.gitignore133134132017504180 0
