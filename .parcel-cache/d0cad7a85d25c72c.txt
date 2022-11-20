@@ -1,6 +1,6 @@
 5023
 82E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\rangePlugin.js133134136348264027 0
-58E:\Kursy\GoIT\goit-js-hw-09\node_modules\@msgpackr-extract133134136493653417 1
+58E:\Kursy\GoIT\goit-js-hw-09\node_modules\@msgpackr-extract133134463515024971 1
 65E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\dist\csstree.js133134135305825793 0
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\lib\compress\inline.js133134135306797464 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\DK.js133134135330027201 0
@@ -11,14 +11,14 @@
 89E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-initial-letter.js133134135325607676 0
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\node_modules\commander\index.js133134135266244037 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\utils\clone.js133134135292969150 0
-40E:\Kursy\GoIT\goit-js-hw-09\package.json133134136494058577 0
+40E:\Kursy\GoIT\goit-js-hw-09\package.json133134450739906087 0
 57E:\Kursy\GoIT\goit-js-hw-09\node_modules\type-fest\source133134135306712398 1
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\yaml\browser\scalar.js133134135304894370 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CR.js133134135321086340 0
 74E:\Kursy\GoIT\goit-js-hw-09\node_modules\htmlnano\lib\modules\minifySvg.js133134135301771647 0
-45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134136494048568 0
+45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134463515420145 0
 66E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\plugins\prefixIds.js133134135306797464 0
-59E:\Kursy\GoIT\goit-js-hw-09\node_modules\.package-lock.json133134136494318626 0
+59E:\Kursy\GoIT\goit-js-hw-09\node_modules\.package-lock.json133134463515610195 0
 38E:\Kursy\GoIT\goit-js-hw-09\.gitignore133134132017504180 0
 90E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-read-only-write.js133134135327396339 0
 60E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\node_modules133134135252560182 1
@@ -41,7 +41,7 @@
 66E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\eo.js133134136344514287 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\si.d.ts133134136352156426 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\watcher\src\DirTree.cc133134135276245966 0
-40E:\Kursy\GoIT\goit-js-hw-09\node_modules133134136493643409 1
+40E:\Kursy\GoIT\goit-js-hw-09\node_modules133134463515014970 1
 62E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\tools\exit.cjs133134135273674089 0
 53E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\LICENSE133134135261824032 0
 55E:\Kursy\GoIT\goit-js-hw-09\node_modules\.bin\acorn.cmd133134135356654084 0
@@ -57,7 +57,7 @@
 66E:\Kursy\GoIT\goit-js-hw-09\node_modules\import-fresh\package.json133134135267269355 0
 40E:\Kursy\GoIT\goit-js-hw-09\README.en.md133134132017529252 0
 62E:\Kursy\GoIT\goit-js-hw-09\node_modules\browserslist\error.js133134135269814054 0
-48E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel133134136493653417 1
+48E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel133134463515024971 1
 69E:\Kursy\GoIT\goit-js-hw-09\node_modules\node-addon-api\noexcept.gypi133134135271655455 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\nth-check\lib\esm\parse.js.map133134135301151472 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\entities\lib\decode_codepoint.d.ts133134135302526863 0
@@ -90,12 +90,12 @@
 78E:\Kursy\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_array_with_holes.js133134135270344161 0
 76E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeEditorsNSData.js133134135313165564 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\yaml\types\set.js133134135306787447 0
-67E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins133134136348254024 1
+67E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins133134136349648534 1
 37E:\Kursy\GoIT\goit-js-hw-09\README.md133134132017569252 0
 54E:\Kursy\GoIT\goit-js-hw-09\node_modules\dotenv-expand133134135273794524 1
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\source-map-js\lib133134135290684127 1
 52E:\Kursy\GoIT\goit-js-hw-09\node_modules\buffer-from133134135269104093 1
-40E:\Kursy\GoIT\goit-js-hw-09\README.pl.md133134132017589256 0
+40E:\Kursy\GoIT\goit-js-hw-09\README.pl.md133134454215630980 0
 47E:\Kursy\GoIT\goit-js-hw-09\node_modules\@types133134135252550206 1
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\EC.js133134135330679889 0
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\source-map-js\source-map.d.ts133134135292989174 0
@@ -117,7 +117,7 @@
 46E:\Kursy\GoIT\goit-js-hw-09\node_modules\acorn133134135285534061 1
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\notiflix\build\notiflix-aio.js133134136492484004 0
 64E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\packager-js\src133134135301826701 1
-60E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n133134136352767295 1
+60E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n133134136352797306 1
 67E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\plugins\removeDesc.js133134135307899250 0
 40E:\Kursy\GoIT\goit-js-hw-09\README.uk.md133134132017619279 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\yaml\package.json133134135314027312 0
@@ -875,7 +875,7 @@
 120E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm_bg.wasm133134135318874517 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133134135276085939 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133134135263724050 0
-55E:\Kursy\GoIT\goit-js-hw-09\node_modules\notiflix\build133134136493523381 1
+55E:\Kursy\GoIT\goit-js-hw-09\node_modules\notiflix\build133134136493553384 1
 84E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133134135319694734 0
 100E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133134135305795773 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133134135274504690 0
@@ -1601,7 +1601,7 @@
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\reusify\reusify.js133134135274464686 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\globals\readme.md133134135274194609 0
 73E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\workers\test\integration133134135280594129 1
-74E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect133134136349688537 1
+74E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect133134136352747295 1
 83E:\Kursy\GoIT\goit-js-hw-09\node_modules\reusify\benchmarks\createNoCodeFunction.js133134135277825096 0
 99E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133134135317276546 0
 82E:\Kursy\GoIT\goit-js-hw-09\node_modules\reusify\benchmarks\reuseNoCodeFunction.js133134135279925744 0
@@ -1913,7 +1913,7 @@
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133134135270254141 0
 55E:\Kursy\GoIT\goit-js-hw-09\node_modules\braces\LICENSE133134135269814054 0
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\nullthrows\LICENSE133134135265029646 0
-53E:\Kursy\GoIT\goit-js-hw-09\node_modules\notiflix\src133134136493174036 1
+53E:\Kursy\GoIT\goit-js-hw-09\node_modules\notiflix\src133134136493573396 1
 81E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133134135321336401 0
 90E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133134135277333770 0
 83E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133134135279885732 0
@@ -2625,16 +2625,16 @@
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\get-port\index.js133134135267269355 0
 76E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\lib\esm\package.json133134135276446009 0
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\get-port\readme.md133134135272779093 0
-63E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins133134136352046396 1
+63E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins133134136352126411 1
 55E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist133134136352395321 1
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CN.js133134135320129889 0
 61E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\LICENSE.md133134136349903718 0
 64E:\Kursy\GoIT\goit-js-hw-09\node_modules\domutils\lib\index.d.ts133134135301976748 0
-60E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style133134136350074064 1
+60E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style133134136350107699 1
 81E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib133134135301121448 1
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\syntax\create.js133134135303833313 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\flatpickr.styl133134136350087676 0
-67E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes133134136350217730 1
+67E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes133134136350237732 1
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes\airbnb.styl133134136349994044 0
 77E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\dist\unpacker\region.js133134135349772634 0
 77E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\src\style\themes\dark.styl133134136350054041 0
@@ -2650,7 +2650,7 @@
 74E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\utils\src\alternatives.js133134135268104079 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\entities\lib\maps133134135291296111 1
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm133134136345834054 1
-62E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\themes133134136342757396 1
+62E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\themes133134136342791972 1
 51E:\Kursy\GoIT\goit-js-hw-09\node_modules\fclone\src133134135285424047 1
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\typings.d.ts133134136352604004 0
 77E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\utils\formatting.d.ts133134136350954288 0
@@ -2669,8 +2669,8 @@
 94E:\Kursy\GoIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\README.md133134135275336294 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PK.js133134135345143994 0
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\themes\material_red.css133134136342801974 0
-75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\confirmDate133134136343583802 1
-75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\labelPlugin133134136347014069 1
+75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\confirmDate133134136350549713 1
+75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\labelPlugin133134136351534049 1
 85E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\minMaxTimePlugin.d.ts133134136351684043 0
 57E:\Kursy\GoIT\goit-js-hw-09\node_modules\cosmiconfig\dist133134135306867481 1
 83E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\minMaxTimePlugin.js133134136347274349 0
@@ -2678,7 +2678,7 @@
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_ts_param.js133134135317316562 0
 95E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\workers\test\integration\workerfarm\console.js133134135285974044 0
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\momentPlugin.js133134136347634030 0
-75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\monthSelect133134136346124044 1
+75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\monthSelect133134136351253633 1
 90E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect\weekSelect.d.ts133134136352747295 0
 80E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\classlist.js133134135319889826 0
 80E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\.babelrc133134135264869599 0
@@ -2823,7 +2823,7 @@
 87E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\minMaxTimePlugin.js133134136347234051 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\WF.js133134135355800028 0
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\transformer-image\package.json133134135278535775 0
-79E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\monthSelect133134136345939112 1
+79E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\monthSelect133134136345949118 1
 83E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\scrollPlugin.js133134136348509164 0
 77E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\bigint.js133134135315919226 0
 94E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\labelPlugin\labelPlugin.js133134136346974048 0
