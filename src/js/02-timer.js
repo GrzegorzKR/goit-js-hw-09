@@ -70,6 +70,7 @@ const timeCounter = () => {
       $hours.innerHTML = addLeadingZero(String(timeObject.hours));
       $days.innerHTML = addLeadingZero(String(timeObject.days));
     } else {
+      document.querySelector(".timer").style.color = "#ff0000";
       clearInterval(timerId);
     }
   }, 1000);
