@@ -1,4 +1,4 @@
-5023
+5041
 82E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\rangePlugin.js133134136348264027 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\@msgpackr-extract133134463515024971 1
 65E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\dist\csstree.js133134135305825793 0
@@ -16,7 +16,7 @@
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\yaml\browser\scalar.js133134135304894370 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CR.js133134135321086340 0
 74E:\Kursy\GoIT\goit-js-hw-09\node_modules\htmlnano\lib\modules\minifySvg.js133134135301771647 0
-45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134463515420145 0
+45E:\Kursy\GoIT\goit-js-hw-09\package-lock.json133134524045700772 0
 66E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\plugins\prefixIds.js133134135306797464 0
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\.package-lock.json133134463515610195 0
 38E:\Kursy\GoIT\goit-js-hw-09\.gitignore133134132017504180 0
@@ -28,7 +28,7 @@
 59E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\graph\test133134135290786006 1
 34E:\Kursy\GoIT\goit-js-hw-09\assets133134132017799317 1
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\mdn-data\css\selectors.schema.json133134135302526863 0
-32E:\Kursy\GoIT\goit-js-hw-09\dist133134441316261149 1
+32E:\Kursy\GoIT\goit-js-hw-09\dist133134470787586119 1
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser\package.json133134135273654069 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\RU.js133134135350226507 0
 64E:\Kursy\GoIT\goit-js-hw-09\node_modules\csso\lib\replace\atrule133134135306432282 1
@@ -166,7 +166,7 @@
 78E:\Kursy\GoIT\goit-js-hw-09\node_modules\cosmiconfig\dist\getPropertyByPath.js133134135276486019 0
 42E:\Kursy\GoIT\goit-js-hw-09\src\index.html133134132017989346 0
 73E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\source-map\dist\utils.js133134135292869132 0
-49E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.html133134438659705442 0
+49E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.html133134470787426101 0
 58E:\Kursy\GoIT\goit-js-hw-09\node_modules\term-size\license133134135268434123 0
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\posthtml-include\node_modules\posthtml-parser\dist133134135277740016 1
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\@swc\helpers\src\_ts_param.js133134135326434107 0
@@ -1109,7 +1109,7 @@
 61E:\Kursy\GoIT\goit-js-hw-09\node_modules\browserslist\node.js133134135275936739 0
 60E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\CHANGELOG.md133134135315159242 0
 78E:\Kursy\GoIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_set_prototype_of.js133134135315664078 0
-43E:\Kursy\GoIT\goit-js-hw-09\dist\index.html133134438659815271 0
+43E:\Kursy\GoIT\goit-js-hw-09\dist\index.html133134470787426101 0
 55E:\Kursy\GoIT\goit-js-hw-09\node_modules\csso\README.md133134135314297364 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\default.js133134136344368727 0
 52E:\Kursy\GoIT\goit-js-hw-09\node_modules\terser\dist133134135314879174 1
@@ -1214,6 +1214,7 @@
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\term-size\vendor\macos133134135270204139 1
 61E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\packager-svg133134135270394182 1
 73E:\Kursy\GoIT\goit-js-hw-09\node_modules\term-size\vendor\macos\.DS_Store133134135266384064 0
+53E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.ccf3bd39.js133134470787436109 0
 88E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133134135291696228 0
 60E:\Kursy\GoIT\goit-js-hw-09\node_modules\dotenv\package.json133134135261933092 0
 49E:\Kursy\GoIT\goit-js-hw-09\node_modules\svgo\bin133134135265009636 1
@@ -2009,6 +2010,7 @@
 93E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133134135291096070 0
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\csso\lib\restructure\index.js133134135305885805 0
 62E:\Kursy\GoIT\goit-js-hw-09\node_modules\node-gyp-build\bin.js133134135265039646 0
+62E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.4b2c5613.js133134470787426101 0
 69E:\Kursy\GoIT\goit-js-hw-09\node_modules\node-gyp-build\build-test.js133134135267239337 0
 64E:\Kursy\GoIT\goit-js-hw-09\node_modules\node-gyp-build\index.js133134135269555693 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\node-gyp-build\package.json133134135274494678 0
@@ -2056,6 +2058,7 @@
 78E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\ch-unit.js133134135319354631 0
 87E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\beforeafterprint.js133134135315329921 0
 54E:\Kursy\GoIT\goit-js-hw-09\node_modules\nan\nan_new.h133134135290966039 0
+56E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.f0750119.js133134470787426101 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\@lezer\common\dist\mix.d.ts133134135279081016 0
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\nan\nan_scriptorigin.h133134135298824000 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\uz_latn.js133134136349454647 0
@@ -2199,7 +2202,7 @@
 76E:\Kursy\GoIT\goit-js-hw-09\node_modules\mdn-data\css\properties.schema.json133134135301721623 0
 60E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\dict\dict2.txt133134135324073664 0
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\zh.js133134136349798641 0
-46E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.html133134438659715429 0
+46E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.html133134470787426101 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\mdn-data\css\selectors.json133134135302126777 0
 67E:\Kursy\GoIT\goit-js-hw-09\node_modules\mdn-data\css\syntaxes.json133134135303002036 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\mdn-data\css\types.schema.json133134135303762224 0
@@ -2268,6 +2271,7 @@
 123E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js133134135313957287 0
 80E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\napi.h133134135290354525 0
 93E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-content-visibility.js133134135324353725 0
+67E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.4f1d477a.css.map133134470787516117 0
 87E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133134135272415995 0
 83E:\Kursy\GoIT\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\README.md133134135302126777 0
 68E:\Kursy\GoIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\cy.d.ts133134136350609730 0
@@ -2512,6 +2516,7 @@
 147E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\bar\package.json133134135319644693 0
 86E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133134135307197566 0
 63E:\Kursy\GoIT\goit-js-hw-09\node_modules\immutable\package.json133134135290684127 0
+62E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.73cb2c29.js133134470787426101 0
 70E:\Kursy\GoIT\goit-js-hw-09\node_modules\immutable\dist\immutable.d.ts133134135292939136 0
 79E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\fontface.js133134135332498945 0
 71E:\Kursy\GoIT\goit-js-hw-09\node_modules\immutable\dist\immutable.es.js133134135275376303 0
@@ -3060,6 +3065,7 @@
 65E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\README.md133134135290674120 0
 90E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\package.json133134135280095800 0
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\decode.js133134135268294086 0
+66E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.4b2c5613.js.map133134470787516117 0
 86E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133134135317939228 0
 86E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps133134135285364022 1
 100E:\Kursy\GoIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133134135278205705 0
@@ -3253,6 +3259,7 @@
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133134135318179276 1
 85E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133134135293418179 0
 72E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\convertor\index.js133134135315209249 0
+63E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.4f1d477a.css133134470787426101 0
 76E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\common\adopt-buffer.js133134135266514090 0
 80E:\Kursy\GoIT\goit-js-hw-09\node_modules\css-tree\lib\common\OffsetToLocation.js133134135319204590 0
 132E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js133134135307787715 0
@@ -3667,6 +3674,7 @@
 90E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133134135324533774 0
 91E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133134135324563760 0
 99E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133134135268614162 0
+56E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.41d69f9e.js133134470787426101 0
 85E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133134135324603778 0
 75E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\core\lib\Transformation.js133134135324633775 0
 87E:\Kursy\GoIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-env-function.js133134135324713826 0
@@ -4511,6 +4519,7 @@
 119E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133134135317256539 0
 110E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133134135303062052 0
 111E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133134135315624048 0
+57E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.c9c7a5fc.js.map133134470787516117 0
 115E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133134135320019848 0
 106E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js133134135316789467 0
 100E:\Kursy\GoIT\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope133134135274614724 1
@@ -5013,10 +5022,19 @@
 56E:\Kursy\GoIT\goit-js-hw-09\node_modules\.bin\terser.ps1133134135356664123 0
 63E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133134438659825274 0
 66E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133134438659725433 0
-55E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.html133134438659795267 0
+66E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.73cb2c29.js.map133134470787516117 0
+55E:\Kursy\GoIT\goit-js-hw-09\dist\01-color-switcher.html133134470787426101 0
+53E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.2d6b6294.js133134470787436109 0
+57E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.2d6b6294.js.map133134470787516117 0
+53E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.6d1ff76b.js133134470787436109 0
+57E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.6d1ff76b.js.map133134470787516117 0
+53E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.c9c7a5fc.js133134470787426101 0
+57E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.ccf3bd39.js.map133134470787516117 0
 53E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js133134438659825274 0
 57E:\Kursy\GoIT\goit-js-hw-09\dist\02-timer.f9388f03.js.map133134438659845272 0
+60E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.41d69f9e.js.map133134470787516117 0
 56E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js133134441316231078 0
+60E:\Kursy\GoIT\goit-js-hw-09\dist\03-promises.f0750119.js.map133134470787516117 0
 58E:\Kursy\GoIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133134438659835270 0
 60E:\Kursy\GoIT\goit-js-hw-09\assets\actions-config-step-1.png133134132017659276 0
 51E:\Kursy\GoIT\goit-js-hw-09\assets\how-it-works.png133134132017729295 0
